@@ -22,7 +22,7 @@ Des transformations sont appliquées pour enrichir les données (retournement ho
 Quelques images du dataset sont affichées pour vérification, avec leurs étiquettes correspondantes.
 
 4. Création du Modèle
-Un modèle de réseau neuronal est défini (l'architecture n'est pas détaillée dans le snippet fourni).
+Un modèle de réseau neuronal est défini.
 
 La fonction de perte et l'optimiseur sont configurés.
 
@@ -41,7 +41,7 @@ Personnalisation : Modifiez l'architecture du modèle ou les hyperparamètres po
 Visualisation : Utilisez les sections de visualisation pour inspecter les données et les résultats.
 
 Remarques
-Le notebook est conçu pour être exécuté dans un environnement compatible avec PyTorch (comme Google Colab).
+Le notebook est conçu pour être exécuté dans un environnement compatible avec PyTorch.
 
 Les transformations appliquées aux images aident à améliorer la généralisation du modèle.
 
